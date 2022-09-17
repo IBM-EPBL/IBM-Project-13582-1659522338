@@ -1,6 +1,7 @@
-# IBM-Project-13582-1659522338
 
-CUSTOMER CARE REGISTRY
+![Customer Care Registry](https://user-images.githubusercontent.com/113118101/190862005-1d96edb0-537e-4144-be51-7271c504c28a.jpg)
+
+
 
    Project Description :
    
@@ -11,16 +12,8 @@ CUSTOMER CARE REGISTRY
    Customers can view the status of the ticket till the service is provided.
    
    ADMIN : 
-   The main role and responsibility of the admin are to take care of the whole process.  
-   Starting from Admin login followed by the agent creation and  assigning the customer's complaints.
-   Finally, He will be able to track the work assigned to the agent and a notification will be sent to the customer.
+   The main role and responsibility of the admin are to take care of the whole process.Starting from Admin login followed by the agent creation and  assigning  the customer's complaints.Finally, He will be able to track the work assigned to the agent and a notification will be sent to the customer.
 
    USER : 
-   They can register for an account.  After the login, they can create the complaint with a description of the problem they are facing.  
-   Each user will be assigned with an agent.  They can view the status of their complaint.
-  
-    PROJECT CONTRIBUTERS
-             MOHANRAJ R
-             MANIKANDAN R
-             SHARNITHASHRI L
-             KARTHICK RAJA S
+   They can register for an account.  After the login, they can create the complaint with a description of the problem they are facing. Each user will be assigned with an agent.  They can view the status of their complaint.
+
