@@ -1,9 +1,9 @@
 
-![Customer Care Registry](https://user-images.githubusercontent.com/113118101/190862005-1d96edb0-537e-4144-be51-7271c504c28a.jpg)
+[Customer Care Registry](https://user-images.githubusercontent.com/113118101/190862005-1d96edb0-537e-4144-be51-7271c504c28a.jpg)
 
 
 
-   Project Description :
+Project Description :
    
    This Application has been developed to help the customer in processing their complaints. 
    The customers can raise the ticket with a detailed description of the issue. 
