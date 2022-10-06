@@ -1,0 +1,46 @@
+{% include 'base.html' %}
+
+<div class ="container d-flex justify-content-center align-items-center"  style="min-height: 100vh;">
+    <div>
+        <h2 style="font-family: 'Times New Roman', Times, serif">CUSTOMER CARE REGISTRY</h2>
+        <h5>TEAM ID : PNT2022TMID32161</h5>
+
+        <div class="media">
+            <div class="media-left">
+                <img class="media-object" src="{{url_for('static', filename='Home Img.png')}}" style=" border:1px solid black; height: 250px; width: 500px;">
+            </div>
+            <div class="media-body">
+                <br>
+              <h4 class="media-heading"  style="font-family: 'Times New Roman', Times, serif">PROJECT DESCRIPTION</h4>
+              <p>
+                This Application has been developed to help the customer in processing their complaints. The customers can raise the ticket with a detailed description of the issue. An Agent will be assigned to the Customer to solve the problem. Whenever the agent is assigned to a customer they will be notified with an email alert. Customers can view the status of the ticket till the service is provided        </p>
+            </div>
+        </div>
+        
+        <!-- <div class="media">
+            <div class="media-left">
+                <img class="media-object" src="{{url_for('static', filename='hzd.webp')}}" style="height: 250px; width: 500px;">
+            </div>
+            <div class="media-body"> --><div>
+              <h5 class="media-heading"  style="font-family: 'Times New Roman', Times, serif">ADMIN</h5>
+              <p>The main role and responsibility of the admin are to take care of the whole process.  Starting from Admin login followed by the agent creation and assigning the customer's complaints.  Finally, He will be able to track the work assigned to the agent and a notification will be sent to the customer.</p>
+              <h5  style="font-family: 'Times New Roman', Times, serif">USER</h5>
+              <p> They can register for an account.  After the login, they can create the complaint with a description of the problem they are facing.  Each user will be assigned with an agent.  They can view the status of their complaint.
+              <h5  style="font-family: 'Times New Roman', Times, serif">TECHNICAL AECHITECTURE:</h5>
+              <img style="border:1px solid black;" class="media-object" src="{{url_for('static', filename='Technical.png')}}" style="height:100px; width: 100px;">
+
+            </p>
+            <br>
+            <h5 style="font-family: 'Times New Roman', Times, serif" >TEAM MEMBERS : </h5>
+            - Mohanraj R<br>
+            - Manikandan R<br>
+            - Sharnithashri L<br>
+            - Karthickraja S
+            </div>
+          </div> 
+    </div>
+</div>    
+
+
+
+{% include 'footer.html' %}
