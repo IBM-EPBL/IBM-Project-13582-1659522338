@@ -1,3 +1,8 @@
+<h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32">
+</picture> Introduction :</h2><i>
+
 ###### **CUSTOMER CARE REGISTRY**
 # ![Customer Care Registry](https://user-images.githubusercontent.com/113118101/190862005-1d96edb0-537e-4144-be51-7271c504c28a.jpg)
 
@@ -24,7 +29,13 @@
    They can register for an account.  After the login, they can create the complaint with a description of the problem they are facing. Each user will be assigned with an agent.  They can view the status of their complaint.
    
  ## <img align="left" width="30" height="30" src="https://user-images.githubusercontent.com/113118101/190885956-903643a8-7a34-44ec-a253-77bce2d9d8d9.png">TASK :
- - MOHANRAJ R           [TASK](https://github.com/IBM-EPBL/IBM-Project-13582-1659522338/tree/main/Assessments/Team%20Lead)
- - MANIKANDAN R         [TASK](https://github.com/IBM-EPBL/IBM-Project-13582-1659522338/tree/main/Assessments/Team%20Member-1)
- - SHARNITHASHRI L      [TASK](https://github.com/IBM-EPBL/IBM-Project-13582-1659522338/tree/main/Assessments/Team%20Member-2)
- - KARTHICK RAJA S      [TASK](https://github.com/IBM-EPBL/IBM-Project-13582-1659522338/tree/main/Assessments/Team%20Member-3) 
+ - MOHANRAJ R           [[TASK]](https://github.com/IBM-EPBL/IBM-Project-13582-1659522338/tree/main/Assessments/Team%20Lead)
+ - MANIKANDAN R         [[TASK]](https://github.com/IBM-EPBL/IBM-Project-13582-1659522338/tree/main/Assessments/Team%20Member-1)
+ - SHARNITHASHRI L      [[TASK]](https://github.com/IBM-EPBL/IBM-Project-13582-1659522338/tree/main/Assessments/Team%20Member-2)
+ - KARTHICK RAJA S      [[TASK]](https://github.com/IBM-EPBL/IBM-Project-13582-1659522338/tree/main/Assessments/Team%20Member-3) 
+
+<div align="center">
+ <h5> Made with <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="12" height="12">
+</picture> in India | 🏫 NANDHA COLLEGE OF TECHNOLOGY - ERODE </h5>
