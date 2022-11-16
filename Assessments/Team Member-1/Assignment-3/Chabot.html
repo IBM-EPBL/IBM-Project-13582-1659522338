@@ -1,29 +1,52 @@
+<!DOCTYPE html>
 <html>
+<head>
+
+<title>CUSTOMER CARE</title>
+
+ <link rel="stylesheet" href="./style.css"><!--https://mkimgbucket.s3.au-syd.cloud-object-storage.appdomain.cloud/style.css-->
+</head>
+
 <body>
-<h2>CUSTOMER CARE REGISTRY</h2>
+ 
 
-<h3>Click here to open chat bot</h3>
-<a href="https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fau-syd.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-e4492d8f-3814-4289-89a8-69df0616f8bd%3A%3Aaa623572-9dda-43ea-b815-a55b65cf0b9d&integrationID=94952285-c04b-42b0-b57c-e40a559c2287&region=au-syd&serviceInstanceID=e4492d8f-3814-4289-89a8-69df0616f8bd">
-   
-    <button type="button" class="btn btn-secondary btn-sm">Click Me</button>
+<h1>CUSTOMER CARE REGISTRY</h1>
 
-</a>
+
+<div class="row">
+  <div class="column">
+    <img src="https://mkimgbucket.s3.au-syd.cloud-object-storage.appdomain.cloud/1pic.webp" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://mkimgbucket.s3.au-syd.cloud-object-storage.appdomain.cloud/2pic.webp" alt="Forest" style="width:100%">
+  </div>
+ 
+   <div class="column">
+    <img src="https://mkimgbucket.s3.au-syd.cloud-object-storage.appdomain.cloud/3pic.webp" alt="Forest" style="width:100%">
+  </div>
+  
+    <div class="column">
+    <img src="https://mkimgbucket.s3.au-syd.cloud-object-storage.appdomain.cloud/4pic.jpg" alt="Forest" style="width:100%">
+  </div>
+  
+    
+</div>
+
+
+<script>
+  window.watsonAssistantChatOptions = {
+    integrationID: "94952285-c04b-42b0-b57c-e40a559c2287", // The ID of this integration.
+    region: "au-syd", // The region your integration is hosted in.
+    serviceInstanceID: "e4492d8f-3814-4289-89a8-69df0616f8bd", // The ID of your service instance.
+    onLoad: function(instance) { instance.render(); }
+  };
+  setTimeout(function(){
+    const t=document.createElement('script');
+    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+    document.head.appendChild(t);
+  });
+</script>
+
+
 </body>
-
-<style>
-    body{
-        background: linear-gradient(#ABE5E6, #7062F0);
-    }
-    h2{
-        text-align: center;
-        font-family:Avanta Garde;
-    }
-    h3{
-      font-family: 'Times New Roman', Times, serif;   
-     }
-     button{
-        border-radius: 1px;
-        font-family: 'Times New Roman', Times, serif
-     }
-    </style>
 </html>
